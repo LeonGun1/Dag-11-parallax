@@ -1,0 +1,23 @@
+*{
+    text-align: center;
+    margin: 0;
+}
+
+
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    min-height: 100vh;
+}
+
+section{
+    min-height: 25vh;
+}   
+p{
+    max-width: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

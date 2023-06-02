@@ -1,0 +1,26 @@
+.parallax{
+/* background-size: contain; */
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+background-attachment: fixed;
+    }
+
+    .parallax>*{
+        min-height: 100vh;
+    }
+.image1{
+    background-image: url("images/LeonBloatedText-copybw.png");
+}
+
+.image2{
+    background-image: url("images/LeonBloatedText\ copy.png");
+}
+
+.image3{
+    background-image: url("https://i.pinimg.com/564x/24/98/5b/24985b71266dc7b1b8e3a63d2a952448.jpg");
+}
+
+.image4{
+    background-image: url("https://i.pinimg.com/564x/4e/7d/94/4e7d947807ec5610311d34976ed04542.jpg");
+}
